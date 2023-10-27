@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Computer Science & Engineering",
+        "category": "B.Tech",
+        "id": 1,
+        "thumb":"https://images2.imgbox.com/d8/08/vRLNM9XU_o.jpg",
+        "yearDuration": 4
+    },
+    {
+        "name": "Information Technology",
+        "category": "B.Tech",
+        "id": 2,
+         "thumb":"https://images2.imgbox.com/9f/d5/DoMWvpbh_o.gif",
+        "yearDuration": 3
+    },
+    {
+        "name": "Economics",
+        "category": "Bachelor of Arts",
+        "id": 3,
+        "thumb":"https://images2.imgbox.com/c7/c3/cz32xemd_o.jpg",
+        "yearDuration": 3
+    },
+    {
+        "name": "Chemistry",
+        "category": "Bachelor of Science",
+        "id": 4,
+         "thumb":"https://images2.imgbox.com/85/c5/KRuJWhGo_o.jpg",
+        "yearDuration": 3
+    },
+    {
+        "name": "Architecture",
+        "category": "Bachelor of Architecture",
+        "id": 5,
+        "thumb":"https://images2.imgbox.com/23/9b/l1iMXFfB_o.jpg",
+        "yearDuration": 3
+    },
+    {
+        "name": "Nursing",
+        "category": "Bachelor of Science in Nursing",
+        "id": 6,
+         "thumb":"https://images2.imgbox.com/cd/62/ofN9aoHP_o.jpg",
+        "yearDuration": 3
+    }
+]
